@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strange Case of Dr Jekyll and Mr Hyde"
+title: "Strange Case of Dr Jekyll and Strappanai"
 date: 2014-01-08 12:00:00
 categories: jekyll
 featured_image: /images/cover.jpg
